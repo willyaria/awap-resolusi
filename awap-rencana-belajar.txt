@@ -1,3 +1,4 @@
 RENCANA BELAJAR
 1. Android
+    * Belajar android studio
 2. React Native
